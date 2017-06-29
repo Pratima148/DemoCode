@@ -1,0 +1,9 @@
+c:\users\patilp\documents\visual studio 2017\Projects\RestAPIDemo\RestAPIDemo\bin\Debug\netcoreapp1.1\RestAPIDemo.deps.json
+c:\users\patilp\documents\visual studio 2017\Projects\RestAPIDemo\RestAPIDemo\bin\Debug\netcoreapp1.1\RestAPIDemo.runtimeconfig.json
+c:\users\patilp\documents\visual studio 2017\Projects\RestAPIDemo\RestAPIDemo\bin\Debug\netcoreapp1.1\RestAPIDemo.runtimeconfig.dev.json
+c:\users\patilp\documents\visual studio 2017\Projects\RestAPIDemo\RestAPIDemo\bin\Debug\netcoreapp1.1\RestAPIDemo.dll
+c:\users\patilp\documents\visual studio 2017\Projects\RestAPIDemo\RestAPIDemo\bin\Debug\netcoreapp1.1\RestAPIDemo.pdb
+c:\users\patilp\documents\visual studio 2017\Projects\RestAPIDemo\RestAPIDemo\obj\Debug\netcoreapp1.1\RestAPIDemo.csprojResolveAssemblyReference.cache
+c:\users\patilp\documents\visual studio 2017\Projects\RestAPIDemo\RestAPIDemo\obj\Debug\netcoreapp1.1\RestAPIDemo.AssemblyInfo.cs
+c:\users\patilp\documents\visual studio 2017\Projects\RestAPIDemo\RestAPIDemo\obj\Debug\netcoreapp1.1\RestAPIDemo.dll
+c:\users\patilp\documents\visual studio 2017\Projects\RestAPIDemo\RestAPIDemo\obj\Debug\netcoreapp1.1\RestAPIDemo.pdb
